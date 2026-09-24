@@ -63,26 +63,47 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+  
+<img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/cb9bb860-2f76-498a-b894-eca11d8dfcc9" />
 
 
   **MODEL GRAPH:**
+  
+<img width="587" height="360" alt="image" src="https://github.com/user-attachments/assets/33902be2-5eb2-4096-9dc7-86ba4caca099" />
+
+<img width="762" height="472" alt="image" src="https://github.com/user-attachments/assets/3637de74-f46b-4bdb-8652-eaa203695036" />
+
 
 
   **TABULATION:**
+
+<img width="1145" height="720" alt="image" src="https://github.com/user-attachments/assets/e9a776e6-3d5a-4ddf-8ada-8d8dea4bcc62" />
+
  
 
 **MODEL CALCULATION:**
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="636" height="367" alt="image" src="https://github.com/user-attachments/assets/698594d6-e334-4800-b999-62f89b0dae79" />
+
 
 
   **MODEL GRAPH:**
+  
+<img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/03bef15d-041e-4f01-a83f-b3b754b77c66" />
 
 
   **TABULATION:**
 
- 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/b7d5a08a-1f4b-42be-90d3-d7e6bda3afb1" />
+
+
+ **GRAPH**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8aaac2c2-78e4-4703-b00c-61a2fa97e51c" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,6 +116,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/48163fb0-9245-4acf-8f64-80cb757b8c79" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/08e6f11e-6090-4211-b729-f6d6d4cb832a" />
+
   
 
 **RESULT:**
